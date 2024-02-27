@@ -7,11 +7,11 @@
 
 
 ## 👥 참여자
-> [DaegiYeo](https://github.com/daegi0923)
+> [DaegiYeo](https://github.com/daegi0923/morgoStudy)
 > 
-> [BeomsuJeong](https://github.com/jbs0708)
+> [BeomsuJeong](https://github.com/jbs0708/morgoStudy)
 > 
-> [BigBeom](https://github.com/BigBeom)
+> [BigBeom](https://github.com/BigBeom/morgoStudy)
 
 ## 💁‍♂️ 스터디 규칙
 ### 문제 풀이
@@ -72,7 +72,7 @@ git push origin {생성한 브랜치}
 - 대기->범준->범수 (순환)
 1. 1주차(240213) : BOJ_1244_스위치켜고끄기 [문제링크](https://www.acmicpc.net/problem/1244)
 2. 2주차(240220) : BOJ_2628_종이자르기 [문제링크](https://www.acmicpc.net/problem/2628)
-
+3. 3주차(240228) : BOJ_14499_주사위 굴리기 [문제링크](https://www.acmicpc.net/problem/14499)
 ---
 #### 참고한 레포들
 - https://github.com/tony9402/baekjoon/tree/main

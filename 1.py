@@ -1,23 +1,7 @@
-# BOJ_S1_2667_단지번호붙이기
-
-[문제링크](https://www.acmicpc.net/problem/2667)
-
-### 분류
-그래프 이론
-
-그래프 탐색
-
-너비 우선 탐색
-
-깊이 우선 탐색
+import sys
+sys.stdin = open('1.txt', 'r')
 
 
-### 접근법
-1. 단지 수를 세면서, 세었던 위치의 값을 0으로 바꿔주며 완전탐색한다.
-2. DFS와 BFS의 코드에 큰 차이는 없으나, deque을 사용해서 while문까지 돌리는 BFS가 더 느리다.
-
-### Code 1. DFS
-```python
 풀이 1. DFS
 dy = [0, -1, 1, 0, 0]
 dx = [0, 0, 0, -1, 1]
@@ -56,10 +40,9 @@ result.sort()
 print(len(result))
 for i in result:
     print(i)
-```
 
-### Code 2. BFS
-```python
+
+# 풀이 2. BFS
 dy = [0, -1, 1, 0, 0]
 dx = [0, 0, 0, -1, 1]
 
@@ -67,7 +50,6 @@ from collections import deque
 
 def bfs(y, x):
     global cnt
-    # 기저조건 없음
 
     q = deque()
     q.append((y, x))
@@ -105,4 +87,3 @@ result.sort()
 print(len(result))
 for i in result:
     print(i)
-```

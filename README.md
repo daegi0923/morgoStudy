@@ -11,7 +11,7 @@
 > 
 > [BeomsuJeong](https://github.com/jbs0708)
 > 
-> [BeomsuJeong](https://github.com/BigBeom)
+> [BeomJun](https://github.com/BigBeom)
 
 ## 💁‍♂️ 스터디 규칙
 ### 문제 풀이

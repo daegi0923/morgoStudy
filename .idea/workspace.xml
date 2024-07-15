@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ac0fbd8-26a8-4b16-8fc4-bc135f52c8ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BOJ_G5_20055_컨베이어벨트위의로봇/0713 박범준.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
